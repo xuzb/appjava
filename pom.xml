@@ -19,7 +19,7 @@
     <connection>scm:git:git@github.com:xuzb/appjava.git</connection>
     <url>scm:git:git@github.com:xuzb/appjava.git</url>
     <developerConnection>scm:git:git@github.com:xuzb/appjava.git</developerConnection>
-    <tag>1.1.x</tag>
+    <tag>1.3.x</tag>
   </scm>
 
   <build>
