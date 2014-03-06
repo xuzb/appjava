@@ -3,7 +3,7 @@
   <groupId>com.test.bobo</groupId>
   <artifactId>appjava</artifactId>
   <packaging>jar</packaging>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3.0</version>
   <name>appjava</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -19,7 +19,7 @@
     <connection>scm:git:git@github.com:xuzb/appjava.git</connection>
     <url>scm:git:git@github.com:xuzb/appjava.git</url>
     <developerConnection>scm:git:git@github.com:xuzb/appjava.git</developerConnection>
-    <tag>1.3.x</tag>
+    <tag>appjava-1.3.0</tag>
   </scm>
 
   <build>
